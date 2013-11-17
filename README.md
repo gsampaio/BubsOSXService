@@ -3,6 +3,8 @@ BubsOSXService
 
 Mac OSX Service for changing the selected text to bubs.
 
+![bubs gif!!!!](https://raw.github.com/gsampaio/BubsOSXService/master/bubs.gif)
+
 Make sure to have [bubs](https://github.com/holman/bubs) installed on your system. If you don't install running the following command. 
 
 `$ gem install bubs`
